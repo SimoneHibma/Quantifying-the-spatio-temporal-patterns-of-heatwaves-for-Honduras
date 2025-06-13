@@ -42,6 +42,7 @@ The order of using the scripts is as follows:
 -  Heatwave_definition_avg_hw_characteritics (CPC and ERA5-Land seperately)   
 -  Trend-analysis  
 -  %land & severity  
--  Temporal_graphs  
+-  Temporal_graphs
+  
 The input and output paths need to be mannually changed, and the first 2 scripts need to be ran until the merged_df_cpc and merged_df_era5.   
 In the script what is done is also descriped and headings are made for reasability. 
